@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: market-risk-engine
+    runtime: docker
+    plan: starter
+    dockerfilePath: ./Dockerfile
+    dockerContext: .
+    healthCheckPath: /_stcore/health
+    envVars:
+      - key: PORT
+        value: 10000

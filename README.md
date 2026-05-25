@@ -97,6 +97,40 @@ If you already have the virtual environment set up, this is enough:
 .\.venv\Scripts\streamlit.exe run app.py
 ```
 
+## Deploy on Render
+
+This repo now includes a Docker-based deployment path that fits this Streamlit app better than Community Cloud when you want a more controlled employer-facing URL.
+
+Files added for deployment:
+
+- `Dockerfile`
+- `start.sh`
+- `render.yaml`
+- `.dockerignore`
+
+### Why this path fits this app
+
+- `app.py` is a single Streamlit entrypoint with local parquet/image assets, so it packages cleanly into one container.
+- The container reads the platform-provided `PORT`, which makes it portable across Render, Railway, and Cloud Run.
+- Render can health-check the native Streamlit endpoint at `/_stcore/health`.
+
+### Render steps
+
+1. Push this repo to GitHub.
+2. In Render, create a new `Blueprint` and point it at this repository so Render uses `render.yaml`.
+3. Approve the generated `market-risk-engine` web service.
+4. Deploy the service.
+5. Add your custom domain in Render after the first successful deploy.
+6. After the custom domain is active, optionally disable the default `onrender.com` subdomain in the service settings.
+
+If you prefer the manual path instead of Blueprints, create a `Web Service`, choose the `Docker` runtime, and use the repo root as the Docker context.
+
+### Notes
+
+- Render expects the app to bind to `0.0.0.0`; `start.sh` handles that.
+- The default Render web-service port is `10000`; `render.yaml` sets `PORT=10000`.
+- The same Docker image can also be reused on Railway or Google Cloud Run if you want a second fallback later.
+
 ## Regenerating the research pipeline
 
 If you want to refresh the stored outputs under `figure/`, run the scripts in numerical order:
