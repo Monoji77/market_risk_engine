@@ -97,39 +97,37 @@ If you already have the virtual environment set up, this is enough:
 .\.venv\Scripts\streamlit.exe run app.py
 ```
 
-## Deploy on Render
+## Deploy on Render Without Blueprints
 
-This repo now includes a Docker-based deployment path that fits this Streamlit app better than Community Cloud when you want a more controlled employer-facing URL.
+You do not need Blueprints for this app. The simplest path is a standard Render `Web Service` using the native `Python 3` runtime.
 
-Files added for deployment:
+### Recommended manual Render settings
 
-- `Dockerfile`
-- `start.sh`
-- `render.yaml`
-- `.dockerignore`
+- Runtime: `Python 3`
+- Build command: `pip install -r requirements.txt`
+- Start command: `streamlit run app.py --server.address 0.0.0.0 --server.port $PORT --server.headless true --browser.gatherUsageStats false`
+- Health check path: `/_stcore/health`
 
-### Why this path fits this app
+### Repo file that helps
 
-- `app.py` is a single Streamlit entrypoint with local parquet/image assets, so it packages cleanly into one container.
-- The container reads the platform-provided `PORT`, which makes it portable across Render, Railway, and Cloud Run.
-- Render can health-check the native Streamlit endpoint at `/_stcore/health`.
+- `.python-version` pins Render to the same Python version used locally.
 
 ### Render steps
 
 1. Push this repo to GitHub.
-2. In Render, create a new `Blueprint` and point it at this repository so Render uses `render.yaml`.
-3. Approve the generated `market-risk-engine` web service.
-4. Deploy the service.
-5. Add your custom domain in Render after the first successful deploy.
-6. After the custom domain is active, optionally disable the default `onrender.com` subdomain in the service settings.
-
-If you prefer the manual path instead of Blueprints, create a `Web Service`, choose the `Docker` runtime, and use the repo root as the Docker context.
+2. In Render, click `New` then `Web Service`.
+3. Connect the GitHub repository.
+4. Choose `Python 3` as the runtime.
+5. Paste the build command and start command above.
+6. Set the health check path to `/_stcore/health`.
+7. Deploy the service.
+8. Add your custom domain in the Render settings after the first successful deploy.
 
 ### Notes
 
-- Render expects the app to bind to `0.0.0.0`; `start.sh` handles that.
-- The default Render web-service port is `10000`; `render.yaml` sets `PORT=10000`.
-- The same Docker image can also be reused on Railway or Google Cloud Run if you want a second fallback later.
+- Render web services must listen on `0.0.0.0` and use the platform `PORT`.
+- Render supports custom domains and managed TLS certificates on web services.
+- Free web services are available, but they spin down after inactivity and are not a good employer-facing experience.
 
 ## Regenerating the research pipeline
 

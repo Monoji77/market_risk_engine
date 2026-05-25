@@ -1,9 +1,0 @@
-.devcontainer/
-.git/
-.github/
-.venv/
-__pycache__/
-additional_materials/
-*.pyc
-*.pyo
-*.pyd
