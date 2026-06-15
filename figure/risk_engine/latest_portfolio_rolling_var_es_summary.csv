@@ -1,4 +1,4 @@
 Date,Entity Type,Name,"Rolling VaR (95%, 252D)","Rolling ES (95%, 252D)"
-2026-06-12,Portfolio,Equal Weighted Portfolio,0.019420061302970273,0.02537678263226598
-2026-06-12,Portfolio,Long-only Global Minimum Variance Portfolio,0.01613367660904261,0.023174614064573665
-2026-06-12,Portfolio,Long-only Tangency Portfolio,0.02216577298976676,0.02929206892410051
+2026-06-15,Portfolio,Equal Weighted Portfolio,0.019420061302970273,0.025376780621815302
+2026-06-15,Portfolio,Long-only Global Minimum Variance Portfolio,0.016133687296743547,0.023174629188437736
+2026-06-15,Portfolio,Long-only Tangency Portfolio,0.022165760493676037,0.029292078249043636
