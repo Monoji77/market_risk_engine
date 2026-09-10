@@ -1,4 +1,4 @@
 Portfolio,Highest Weight Asset,Highest Volatility Asset Held,Highest Risk Contribution Asset,Highest Risk Contribution Percentage,Asset With Largest Risk Contribution Minus Weight,Maximum Drawdown,Main Drawdown Contributor,Main Stress Loss Contributor,Overall Risk Comment
-Equal Weighted Portfolio,AAPL,NVDA,AMZN,0.2524483066525539,AMZN,-0.2608101893610132,NVDA,NVDA,Risk is relatively diversified across assets.
-Long-only Global Minimum Variance Portfolio,MSFT,AMZN,MSFT,0.44590904089598377,MSFT,-0.24369763149689871,AAPL,MSFT,Portfolio has defensive allocation but remains exposed to correlated technology drawdowns.
-Long-only Tangency Portfolio,NVDA,NVDA,NVDA,0.7861741659774792,NVDA,-0.3167654407807403,NVDA,NVDA,Risk is concentrated in NVDA due to high volatility and large risk contribution.
+Equal Weighted Portfolio,AAPL,NVDA,AMZN,0.25251630042189677,AMZN,-0.26081017261756057,NVDA,NVDA,Risk is relatively diversified across assets.
+Long-only Global Minimum Variance Portfolio,MSFT,AMZN,MSFT,0.44341980473528786,MSFT,-0.24369766784404856,AAPL,MSFT,Portfolio has defensive allocation but remains exposed to correlated technology drawdowns.
+Long-only Tangency Portfolio,NVDA,NVDA,NVDA,0.786462567852308,NVDA,-0.3167654859311787,NVDA,NVDA,Risk is concentrated in NVDA due to high volatility and large risk contribution.
