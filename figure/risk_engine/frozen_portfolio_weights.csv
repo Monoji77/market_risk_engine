@@ -4,13 +4,13 @@ Equal Weighted Portfolio,GOOG,0.2
 Equal Weighted Portfolio,NVDA,0.2
 Equal Weighted Portfolio,MSFT,0.2
 Equal Weighted Portfolio,AMZN,0.2
-Long-only Global Minimum Variance Portfolio,AAPL,0.3001730883459376
-Long-only Global Minimum Variance Portfolio,GOOG,0.26337666354933914
+Long-only Global Minimum Variance Portfolio,AAPL,0.30017341827440014
+Long-only Global Minimum Variance Portfolio,GOOG,0.2633780574143721
 Long-only Global Minimum Variance Portfolio,NVDA,0.0
-Long-only Global Minimum Variance Portfolio,MSFT,0.35583322796880834
-Long-only Global Minimum Variance Portfolio,AMZN,0.08061702013591494
-Long-only Tangency Portfolio,AAPL,0.38715607693489196
+Long-only Global Minimum Variance Portfolio,MSFT,0.355831276578556
+Long-only Global Minimum Variance Portfolio,AMZN,0.08061724773267187
+Long-only Tangency Portfolio,AAPL,0.387156696041479
 Long-only Tangency Portfolio,GOOG,0.0
-Long-only Tangency Portfolio,NVDA,0.5752649325191826
-Long-only Tangency Portfolio,MSFT,0.037578990545925374
+Long-only Tangency Portfolio,NVDA,0.5752647447642356
+Long-only Tangency Portfolio,MSFT,0.03757855919428544
 Long-only Tangency Portfolio,AMZN,0.0
