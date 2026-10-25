@@ -4,14 +4,14 @@ Extreme single-day tech crash,Deterministic,1D,Equal Weighted Portfolio,AAPL,0.2
 Extreme single-day tech crash,Deterministic,1D,Equal Weighted Portfolio,AMZN,0.2,-0.1,-0.020000000000000004,0.020000000000000004,0.18181818181818182
 Extreme single-day tech crash,Deterministic,1D,Equal Weighted Portfolio,GOOG,0.2,-0.1,-0.020000000000000004,0.020000000000000004,0.18181818181818182
 Extreme single-day tech crash,Deterministic,1D,Equal Weighted Portfolio,MSFT,0.2,-0.1,-0.020000000000000004,0.020000000000000004,0.18181818181818182
-Extreme single-day tech crash,Deterministic,1D,Long-only Global Minimum Variance Portfolio,MSFT,0.35583037880905466,-0.1,-0.035583037880905465,0.035583037880905465,0.3558303788090546
-Extreme single-day tech crash,Deterministic,1D,Long-only Global Minimum Variance Portfolio,AAPL,0.30017490282026044,-0.1,-0.030017490282026046,0.030017490282026046,0.30017490282026044
-Extreme single-day tech crash,Deterministic,1D,Long-only Global Minimum Variance Portfolio,GOOG,0.2633777757939773,-0.1,-0.02633777757939773,0.02633777757939773,0.2633777757939773
-Extreme single-day tech crash,Deterministic,1D,Long-only Global Minimum Variance Portfolio,AMZN,0.0806169425767075,-0.1,-0.00806169425767075,0.00806169425767075,0.0806169425767075
+Extreme single-day tech crash,Deterministic,1D,Long-only Global Minimum Variance Portfolio,MSFT,0.35583003145606806,-0.1,-0.035583003145606806,0.035583003145606806,0.35583003145606806
+Extreme single-day tech crash,Deterministic,1D,Long-only Global Minimum Variance Portfolio,AAPL,0.3001738939986092,-0.1,-0.030017389399860924,0.030017389399860924,0.3001738939986092
+Extreme single-day tech crash,Deterministic,1D,Long-only Global Minimum Variance Portfolio,GOOG,0.26337883426126063,-0.1,-0.026337883426126064,0.026337883426126064,0.26337883426126063
+Extreme single-day tech crash,Deterministic,1D,Long-only Global Minimum Variance Portfolio,AMZN,0.08061724028406213,-0.1,-0.008061724028406212,0.008061724028406212,0.08061724028406211
 Extreme single-day tech crash,Deterministic,1D,Long-only Global Minimum Variance Portfolio,NVDA,0.0,-0.15,-0.0,0.0,0.0
-Extreme single-day tech crash,Deterministic,1D,Long-only Tangency Portfolio,NVDA,0.5752645447254222,-0.15,-0.08628968170881333,0.08628968170881333,0.6701422724554587
-Extreme single-day tech crash,Deterministic,1D,Long-only Tangency Portfolio,AAPL,0.38715758746717105,-0.1,-0.03871575874671711,0.03871575874671711,0.30067403231263
-Extreme single-day tech crash,Deterministic,1D,Long-only Tangency Portfolio,MSFT,0.037577867807406816,-0.1,-0.0037577867807406817,0.0037577867807406817,0.029183695231911336
+Extreme single-day tech crash,Deterministic,1D,Long-only Tangency Portfolio,NVDA,0.5752650781608843,-0.15,-0.08628976172413265,0.08628976172413265,0.6701427550577135
+Extreme single-day tech crash,Deterministic,1D,Long-only Tangency Portfolio,AAPL,0.38715672606109686,-0.1,-0.03871567260610969,0.03871567260610969,0.30067330104719425
+Extreme single-day tech crash,Deterministic,1D,Long-only Tangency Portfolio,MSFT,0.03757819577801883,-0.1,-0.0037578195778018835,0.0037578195778018835,0.029183943895092275
 Extreme single-day tech crash,Deterministic,1D,Long-only Tangency Portfolio,AMZN,0.0,-0.1,-0.0,0.0,0.0
 Extreme single-day tech crash,Deterministic,1D,Long-only Tangency Portfolio,GOOG,0.0,-0.1,-0.0,0.0,0.0
 Market-wide selloff,Deterministic,1D,Equal Weighted Portfolio,AAPL,0.2,-0.05,-0.010000000000000002,0.010000000000000002,0.2
@@ -19,14 +19,14 @@ Market-wide selloff,Deterministic,1D,Equal Weighted Portfolio,AMZN,0.2,-0.05,-0.
 Market-wide selloff,Deterministic,1D,Equal Weighted Portfolio,GOOG,0.2,-0.05,-0.010000000000000002,0.010000000000000002,0.2
 Market-wide selloff,Deterministic,1D,Equal Weighted Portfolio,MSFT,0.2,-0.05,-0.010000000000000002,0.010000000000000002,0.2
 Market-wide selloff,Deterministic,1D,Equal Weighted Portfolio,NVDA,0.2,-0.05,-0.010000000000000002,0.010000000000000002,0.2
-Market-wide selloff,Deterministic,1D,Long-only Global Minimum Variance Portfolio,MSFT,0.35583037880905466,-0.05,-0.017791518940452732,0.017791518940452732,0.3558303788090546
-Market-wide selloff,Deterministic,1D,Long-only Global Minimum Variance Portfolio,AAPL,0.30017490282026044,-0.05,-0.015008745141013023,0.015008745141013023,0.30017490282026044
-Market-wide selloff,Deterministic,1D,Long-only Global Minimum Variance Portfolio,GOOG,0.2633777757939773,-0.05,-0.013168888789698865,0.013168888789698865,0.2633777757939773
-Market-wide selloff,Deterministic,1D,Long-only Global Minimum Variance Portfolio,AMZN,0.0806169425767075,-0.05,-0.004030847128835375,0.004030847128835375,0.0806169425767075
+Market-wide selloff,Deterministic,1D,Long-only Global Minimum Variance Portfolio,MSFT,0.35583003145606806,-0.05,-0.017791501572803403,0.017791501572803403,0.35583003145606806
+Market-wide selloff,Deterministic,1D,Long-only Global Minimum Variance Portfolio,AAPL,0.3001738939986092,-0.05,-0.015008694699930462,0.015008694699930462,0.3001738939986092
+Market-wide selloff,Deterministic,1D,Long-only Global Minimum Variance Portfolio,GOOG,0.26337883426126063,-0.05,-0.013168941713063032,0.013168941713063032,0.26337883426126063
+Market-wide selloff,Deterministic,1D,Long-only Global Minimum Variance Portfolio,AMZN,0.08061724028406213,-0.05,-0.004030862014203106,0.004030862014203106,0.08061724028406211
 Market-wide selloff,Deterministic,1D,Long-only Global Minimum Variance Portfolio,NVDA,0.0,-0.05,-0.0,0.0,0.0
-Market-wide selloff,Deterministic,1D,Long-only Tangency Portfolio,NVDA,0.5752645447254222,-0.05,-0.028763227236271113,0.028763227236271113,0.5752645447254222
-Market-wide selloff,Deterministic,1D,Long-only Tangency Portfolio,AAPL,0.38715758746717105,-0.05,-0.019357879373358554,0.019357879373358554,0.38715758746717105
-Market-wide selloff,Deterministic,1D,Long-only Tangency Portfolio,MSFT,0.037577867807406816,-0.05,-0.0018788933903703408,0.0018788933903703408,0.037577867807406816
+Market-wide selloff,Deterministic,1D,Long-only Tangency Portfolio,NVDA,0.5752650781608843,-0.05,-0.02876325390804422,0.02876325390804422,0.5752650781608843
+Market-wide selloff,Deterministic,1D,Long-only Tangency Portfolio,AAPL,0.38715672606109686,-0.05,-0.019357836303054845,0.019357836303054845,0.38715672606109686
+Market-wide selloff,Deterministic,1D,Long-only Tangency Portfolio,MSFT,0.03757819577801883,-0.05,-0.0018789097889009418,0.0018789097889009418,0.03757819577801883
 Market-wide selloff,Deterministic,1D,Long-only Tangency Portfolio,AMZN,0.0,-0.05,-0.0,0.0,0.0
 Market-wide selloff,Deterministic,1D,Long-only Tangency Portfolio,GOOG,0.0,-0.05,-0.0,0.0,0.0
 NVDA-specific crash,Deterministic,1D,Equal Weighted Portfolio,NVDA,0.2,-0.15,-0.03,0.03,0.5555555555555556
@@ -34,13 +34,13 @@ NVDA-specific crash,Deterministic,1D,Equal Weighted Portfolio,AAPL,0.2,-0.03,-0.
 NVDA-specific crash,Deterministic,1D,Equal Weighted Portfolio,AMZN,0.2,-0.03,-0.006,0.006,0.11111111111111113
 NVDA-specific crash,Deterministic,1D,Equal Weighted Portfolio,GOOG,0.2,-0.03,-0.006,0.006,0.11111111111111113
 NVDA-specific crash,Deterministic,1D,Equal Weighted Portfolio,MSFT,0.2,-0.03,-0.006,0.006,0.11111111111111113
-NVDA-specific crash,Deterministic,1D,Long-only Global Minimum Variance Portfolio,MSFT,0.35583037880905466,-0.03,-0.01067491136427164,0.01067491136427164,0.3558303788090547
-NVDA-specific crash,Deterministic,1D,Long-only Global Minimum Variance Portfolio,AAPL,0.30017490282026044,-0.03,-0.009005247084607813,0.009005247084607813,0.3001749028202605
-NVDA-specific crash,Deterministic,1D,Long-only Global Minimum Variance Portfolio,GOOG,0.2633777757939773,-0.03,-0.00790133327381932,0.00790133327381932,0.26337777579397736
-NVDA-specific crash,Deterministic,1D,Long-only Global Minimum Variance Portfolio,AMZN,0.0806169425767075,-0.03,-0.0024185082773012247,0.0024185082773012247,0.0806169425767075
+NVDA-specific crash,Deterministic,1D,Long-only Global Minimum Variance Portfolio,MSFT,0.35583003145606806,-0.03,-0.010674900943682042,0.010674900943682042,0.355830031456068
+NVDA-specific crash,Deterministic,1D,Long-only Global Minimum Variance Portfolio,AAPL,0.3001738939986092,-0.03,-0.009005216819958277,0.009005216819958277,0.3001738939986092
+NVDA-specific crash,Deterministic,1D,Long-only Global Minimum Variance Portfolio,GOOG,0.26337883426126063,-0.03,-0.00790136502783782,0.00790136502783782,0.26337883426126063
+NVDA-specific crash,Deterministic,1D,Long-only Global Minimum Variance Portfolio,AMZN,0.08061724028406213,-0.03,-0.0024185172085218636,0.0024185172085218636,0.08061724028406211
 NVDA-specific crash,Deterministic,1D,Long-only Global Minimum Variance Portfolio,NVDA,0.0,-0.15,-0.0,0.0,0.0
-NVDA-specific crash,Deterministic,1D,Long-only Tangency Portfolio,NVDA,0.5752645447254222,-0.15,-0.08628968170881333,0.08628968170881333,0.8713335445012079
-NVDA-specific crash,Deterministic,1D,Long-only Tangency Portfolio,AAPL,0.38715758746717105,-0.03,-0.011614727624015131,0.011614727624015131,0.11728287309252577
-NVDA-specific crash,Deterministic,1D,Long-only Tangency Portfolio,MSFT,0.037577867807406816,-0.03,-0.0011273360342222043,0.0011273360342222043,0.011383582406266322
+NVDA-specific crash,Deterministic,1D,Long-only Tangency Portfolio,NVDA,0.5752650781608843,-0.15,-0.08628976172413265,0.08628976172413265,0.8713337892639162
+NVDA-specific crash,Deterministic,1D,Long-only Tangency Portfolio,AAPL,0.38715672606109686,-0.03,-0.011614701781832906,0.011614701781832906,0.1172825363348348
+NVDA-specific crash,Deterministic,1D,Long-only Tangency Portfolio,MSFT,0.03757819577801883,-0.03,-0.0011273458733405649,0.0011273458733405649,0.011383674401248869
 NVDA-specific crash,Deterministic,1D,Long-only Tangency Portfolio,AMZN,0.0,-0.03,-0.0,0.0,0.0
 NVDA-specific crash,Deterministic,1D,Long-only Tangency Portfolio,GOOG,0.0,-0.03,-0.0,0.0,0.0
