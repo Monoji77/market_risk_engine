@@ -1,16 +1,16 @@
 Portfolio,Ticker,Weight,Percentage Contribution to Risk,Risk Contribution Minus Weight,Risk Concentration Flag
-Equal Weighted Portfolio,AAPL,0.2,0.09463002093544527,-0.10536997906455474,Low risk contribution relative to weight
-Equal Weighted Portfolio,GOOG,0.2,0.21665470774336862,0.016654707743368607,Broadly aligned with weight
-Equal Weighted Portfolio,NVDA,0.2,0.22336111964934155,0.02336111964934154,Broadly aligned with weight
-Equal Weighted Portfolio,MSFT,0.2,0.20992892945480918,0.009928929454809166,Broadly aligned with weight
-Equal Weighted Portfolio,AMZN,0.2,0.25542522221703556,0.05542522221703555,Broadly aligned with weight
-Long-only Global Minimum Variance Portfolio,AAPL,0.3001749669694108,0.19071847971865014,-0.10945648725076068,Low risk contribution relative to weight
-Long-only Global Minimum Variance Portfolio,GOOG,0.2633772658639904,0.27400690606155814,0.010629640197567736,Broadly aligned with weight
+Equal Weighted Portfolio,AAPL,0.2,0.0903603874810052,-0.10963961251899482,Low risk contribution relative to weight
+Equal Weighted Portfolio,GOOG,0.2,0.22966175501372865,0.02966175501372864,Broadly aligned with weight
+Equal Weighted Portfolio,NVDA,0.2,0.22021134069804715,0.020211340698047142,Broadly aligned with weight
+Equal Weighted Portfolio,MSFT,0.2,0.20608499267923003,0.006084992679230017,Broadly aligned with weight
+Equal Weighted Portfolio,AMZN,0.2,0.2536815241279888,0.05368152412798877,Broadly aligned with weight
+Long-only Global Minimum Variance Portfolio,AAPL,0.3001732104196855,0.18295555818740197,-0.1172176522322835,Low risk contribution relative to weight
+Long-only Global Minimum Variance Portfolio,GOOG,0.2633770091464854,0.29165760919734907,0.02828060005086369,Broadly aligned with weight
 Long-only Global Minimum Variance Portfolio,NVDA,0.0,0.0,0.0,Broadly aligned with weight
-Long-only Global Minimum Variance Portfolio,MSFT,0.355830765016911,0.4487550114887048,0.09292424647179376,Broadly aligned with weight
-Long-only Global Minimum Variance Portfolio,AMZN,0.08061700214968778,0.08651960273108682,0.005902600581399034,Broadly aligned with weight
-Long-only Tangency Portfolio,AAPL,0.38715737910248815,0.1903187010578058,-0.19683867804468236,Low risk contribution relative to weight
+Long-only Global Minimum Variance Portfolio,MSFT,0.3558327062198872,0.4393827717345656,0.08355006551467836,Broadly aligned with weight
+Long-only Global Minimum Variance Portfolio,AMZN,0.08061707421394185,0.08600406088068335,0.005386986666741506,Broadly aligned with weight
+Long-only Tangency Portfolio,AAPL,0.387155847924022,0.1894213905248434,-0.1977344573991786,Low risk contribution relative to weight
 Long-only Tangency Portfolio,GOOG,0.0,0.0,0.0,Broadly aligned with weight
-Long-only Tangency Portfolio,NVDA,0.5752645150684518,0.7931477021844631,0.2178831871160113,High risk contribution relative to weight
-Long-only Tangency Portfolio,MSFT,0.03757810582906017,0.016533596757730994,-0.021044509071329175,Broadly aligned with weight
+Long-only Tangency Portfolio,NVDA,0.5752647204521204,0.7940184785452411,0.2187537580931207,High risk contribution relative to weight
+Long-only Tangency Portfolio,MSFT,0.03757943162385766,0.016560130929915477,-0.021019300693942186,Broadly aligned with weight
 Long-only Tangency Portfolio,AMZN,0.0,0.0,0.0,Broadly aligned with weight
