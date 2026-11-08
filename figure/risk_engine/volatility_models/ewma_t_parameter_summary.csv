@@ -1,4 +1,4 @@
 Portfolio,Model,EWMA Lambda,Estimated nu,Number of Residuals Used,Estimation Status
-Equal Weighted Portfolio,EWMA-t,0.94,7.406167401963446,1926,Estimated successfully.
-Long-only Global Minimum Variance Portfolio,EWMA-t,0.94,7.187623739890435,1926,Estimated successfully.
-Long-only Tangency Portfolio,EWMA-t,0.94,6.637581544240572,1926,Estimated successfully.
+Equal Weighted Portfolio,EWMA-t,0.94,7.406162396028752,1926,Estimated successfully.
+Long-only Global Minimum Variance Portfolio,EWMA-t,0.94,7.187613433192949,1926,Estimated successfully.
+Long-only Tangency Portfolio,EWMA-t,0.94,6.637576015816997,1926,Estimated successfully.
